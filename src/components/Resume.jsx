@@ -29,7 +29,7 @@ const Resume = () => {
       </Button>
       <Button variant="text" sx={{ color: 'white', fontSize: '10px', textTransform: 'none' ,mr:2 }}>
         <AddLocationIcon sx={{ fontSize: 'small', marginRight: '0.5em', color: 'red' }} />
-        Noida UP
+      Akaaaaaaa
       </Button>
       <Button variant="text" sx={{ color: 'white', fontSize: '10px', textTransform: 'none' ,mr:2 }}>
         <LinkedInIcon sx={{ fontSize: 'small', marginRight: '0.5em', color: 'red' }} />
